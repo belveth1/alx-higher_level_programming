@@ -8,7 +8,7 @@
  * Return: If the function fails - NULL.
  * Otherwise - a pointer to the new node.
  */
-istint_t *insert_node(listint_t **head, int number)
+listint_t *insert_node(listint_t **head, int number)
 {
 	listint_t *tmp= *head, *new;
 
