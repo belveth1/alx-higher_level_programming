@@ -2,6 +2,6 @@
 """A module for square"""
 
 
-class square:
+class Square:
     """Represent a square."""
     pass
