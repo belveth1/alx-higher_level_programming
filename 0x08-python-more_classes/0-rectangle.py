@@ -2,6 +2,6 @@
 """Defines a Rectangle class."""
 
 
-class Rectangular:
+class Rectangle:
     """Represent a rectangle."""
     pass
